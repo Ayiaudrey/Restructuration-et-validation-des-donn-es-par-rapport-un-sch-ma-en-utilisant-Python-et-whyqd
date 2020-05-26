@@ -1,0 +1,1 @@
+# Restructuration-et-validation-des-donn-es-par-rapport-un-sch-ma-en-utilisant-Python-et-whyqd
